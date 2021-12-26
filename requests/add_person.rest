@@ -1,7 +1,15 @@
-POST https://fast-gorge-68228.herokuapp.com/api/persons
+# POST https://fast-gorge-68228.herokuapp.com/api/persons
+# Content-Type: application/json
+
+# {
+#     "name": "123",
+#     "number": "123"
+# }
+
+POST http://localhost:3001/api/persons
 Content-Type: application/json
 
 {
-    "name": "123",
-    "number": "123"
+    "name": "Artho Vathulio",
+    "number": "123456-987654"
 }
