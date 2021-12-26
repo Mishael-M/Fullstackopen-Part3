@@ -1,1 +1,3 @@
-DELETE https://fast-gorge-68228.herokuapp.com/api/persons/4
+# DELETE https://fast-gorge-68228.herokuapp.com/api/persons/4
+
+DELETE http://localhost:3001/api/persons/61c78499de0ad174bb074d3a
